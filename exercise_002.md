@@ -44,6 +44,3 @@ a. If the average is greater than 10.
 b. If the average, when divided by 2, gives a remainder greater than or equal to 1.
 
 ---
-
-**Note to Instructor:**  
-Make sure to encourage students to use the console to display their results. It will provide instant feedback and validate their understanding. Once students have attempted the exercises, you can discuss the solutions and best practices in using operators.
