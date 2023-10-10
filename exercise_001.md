@@ -34,28 +34,4 @@
    ```
 2. Print the variable using `console.log()`.
 
-### **Exercise 4: Working with Numbers**
-1. Declare two number variables:
-   ```javascript
-   let ageJohn = 25;
-   let ageJane = 30;
-   ```
-2. Print out both variables using `console.log()`.
-
-### **Exercise 5: Understanding Boolean**
-1. Declare a variable and assign a boolean value:
-   ```javascript
-   let isRaining = false;
-   ```
-2. Print out the variable using `console.log()`.
-
-### **Exercise 6: Null and Undefined**
-1. Declare a variable without assigning any value:
-   ```javascript
-   let emptyVar;
-   ```
-2. Print out the variable using `console.log()`.
-3. Now assign a `null` value to the variable and print it again.
-
----
 
