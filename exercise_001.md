@@ -59,4 +59,3 @@
 
 ---
 
-These exercises are now more basic and focus purely on declaration, initialization, and use of the console for output.
