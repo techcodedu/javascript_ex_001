@@ -1,6 +1,4 @@
-Absolutely! Let's create exercises to test the understanding of the students regarding operators.
 
----
 
 ## **Operators in JavaScript: Exercises**
 
