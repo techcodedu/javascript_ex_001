@@ -1,6 +1,4 @@
-Of course. My apologies for the oversight. Let's refine the exercises to align with the topics covered.
 
----
 
 ## **Variables using `let` and `const`**:
 
