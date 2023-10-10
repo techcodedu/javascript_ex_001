@@ -1,25 +1,27 @@
 # Exercise: Basic Philippine Payroll Computation
 
-## Objective:
+## Objective
 Practice using variables and basic arithmetic operations in JavaScript by computing a simplified Philippine payroll.
 
-## Task:
+## Task
 
-1. Prompt the user to input their daily rate.
-2. Prompt the user to input the number of days they worked in the month.
-3. Prompt the user to input the number of overtime hours they've worked.
-4. Use the provided constant values for the various deductions.
+- Prompt the user to input their daily rate.
+- Prompt the user to input the number of days they worked in the month.
+- Prompt the user to input the number of overtime hours they've worked.
+- Use the provided constant values for the various deductions.
 
-### Deduction Constants:
+### Deduction Constants
 - **SSS Contribution:** PHP 500
 - **PhilHealth Contribution:** PHP 300
 - **PAG-IBIG Contribution:** PHP 200
 
-Overtime is computed as:
-\[ \text{overtime hours} \times \left( \frac{\text{daily rate}}{8} \right) \times 1.5 \]
+### Overtime Calculation
+Overtime is computed as: 
+`overtime hours * (daily rate / 8) * 1.5`
 (assuming an 8-hour work day and 1.5 times the hourly rate for overtime).
 
+### Total Payroll Calculation
 Compute the total payroll as:
-\[ \text{Total Payroll} = (\text{days worked} \times \text{daily rate}) + \text{overtime pay} - \text{total deductions} \]
+`Total Payroll = (days worked * daily rate) + overtime pay - total deductions`
 
-Display the computed payroll amount using an alert.
+Finally, display the computed payroll amount using an alert.
